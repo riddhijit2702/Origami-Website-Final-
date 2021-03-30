@@ -24,12 +24,20 @@
     pointer-events: all;
     cursor: not-allowed;
   }
+  .introtext{
+    display: flex;
+    color: lavender;
+    justify-content: space-evenly;
+    background-image: url("charcoal.png");
+  }
   .caption{
     display: flex;
+    color: lavender;
     justify-content: space-evenly;
     border: 10px solid black;
     border-bottom: dotted;
     border-top: dotted;
+    background-image: url("charcoal.png");
   } 
   .backPics{
     display: flex;
