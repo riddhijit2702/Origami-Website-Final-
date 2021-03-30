@@ -41,10 +41,10 @@ Unlike most of the lizards the tails of the chamelions cannot be regrown.
 
 Some Miscallneouse stuff:-
 
-  /*  <h1>Learn about animal origami and features about some of these animals!! </h1> 
+ <h1>Learn about animal origami and features about some of these animals!! </h1> 
     <h5>What is Origami?</h5>
     
-    <h2>Origami is the art of paper folding, which is often associated with Japanese culture. In modern usage, the word "origami" is used as an inclusive term for all folding practices, regardless of their culture of origin.</h2>*/
+    <h2> Origami is the art of paper folding, which is often associated with Japanese culture. In modern usage, the word "origami" is used as an inclusive term for all folding practices, regardless of their culture of origin. </h2>
     
 
     <video id="myVideo" width="600" height="300" controls>
